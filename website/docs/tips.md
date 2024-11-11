@@ -17,6 +17,10 @@ Thanks to Jef Kazimer for the initial list of tips. [BlueSky Guide](https://gith
 
 A collection of useful tools for extending the collaboration experience on Bluesky
 
+### Twitter Followers Importers
+
+- [Sky Follower Bridge](https://chromewebstore.google.com/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko?hl=en) - A Chrome extension to import your Twitter followers to Bluesky
+
 ### Analytics
 
 Tools to give you insights into activity and engagement on Bluesky

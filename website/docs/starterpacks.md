@@ -22,3 +22,4 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Microsoft Exchange](https://bsky.app/starter-pack/did:plc:74bru4qbu5fs24pqj64whhsw/3la7wxdjs6o2s)
 * [Azure DevRel](https://bsky.app/starter-pack-short/6VGtaiG)
 * [Microsoft Excel - The Excel-lent Starter Pack](https://bsky.app/starter-pack-short/Hu3CjBE)
+* [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ)
