@@ -14,9 +14,11 @@ If you are new to Bluesky, you can start by following these starter packs to get
 Feel free to create your own starter pack and submit a pull request to add it to this list by clicking on the "Edit this page" link at the bottom of this page.
 
 * [Microsoft MVPs](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r)
-* [Microsoft Modern Work](https://bsky.app/starter-pack/modernworkmentor.com/3labwwq32nu2y)
+* [Microsoft Modern Work](https://bsky.app/starter-pack-short/AJvRb9R)
 * [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
 * [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
 * [Xbox Essentials Starter Pack](https://bsky.app/starter-pack/deadly-headley.bsky.social/3l7fctgd7gw2h)
 * [SQL People #1](https://bsky.app/starter-pack-short/PxShiuH) + [SQL People #2](https://bsky.app/starter-pack-short/FuwcAQA)
-* [Microsoft Exchange] (https://bsky.app/starter-pack/did:plc:74bru4qbu5fs24pqj64whhsw/3la7wxdjs6o2s)
+* [Microsoft Exchange](https://bsky.app/starter-pack/did:plc:74bru4qbu5fs24pqj64whhsw/3la7wxdjs6o2s)
+* [Azure DevRel](https://bsky.app/starter-pack-short/6VGtaiG)
+* [Microsoft Excel - The Excel-lent Starter Pack](https://bsky.app/starter-pack-short/Hu3CjBE)
