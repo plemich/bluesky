@@ -52,6 +52,7 @@ body:
         - businessapps
         - intune
         - microsoft365
+        - modern work
         - security
         - windows
     validations:
