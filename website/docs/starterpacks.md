@@ -23,3 +23,4 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Azure DevRel](https://bsky.app/starter-pack-short/6VGtaiG)
 * [Microsoft Excel - The Excel-lent Starter Pack](https://bsky.app/starter-pack-short/Hu3CjBE)
 * [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ)
+* [Azure Bicep Starter Pack 💪](https://bsky.app/starter-pack/did:plc:r5lyfzjttxjngj3ifcxidgbf/3laoclx5ddm2q)
