@@ -27,3 +27,4 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Microsoft Developer Division](https://bsky.app/starter-pack-short/JuyrK9N)
 * [Azure Bicep Starter Pack 💪](https://bsky.app/starter-pack/did:plc:r5lyfzjttxjngj3ifcxidgbf/3laoclx5ddm2q)
 * [.NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/chriswoodruff.bsky.social/3laqbohkbeh2d)
+* [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z)
