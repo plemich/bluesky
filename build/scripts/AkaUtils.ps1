@@ -8,7 +8,7 @@ $folderPath = Split-Path $filePath -Parent
 $configPath = $folderPath -replace "bluesky/build/scripts", "bluesky/website/config"
 $csvFilePath = Join-Path $configPath "aka.csv"
 
-$publicCsvFilePath = $folderPath -replace "bluesky/build/scripts", "bluesky/website/static/profiles.csv"
+$publicSiteFilePath = $folderPath -replace "bluesky/build/scripts", "bluesky/website/static/"
 
 $isHttp2Supported = !($PSVersionTable.PSVersion.Major -eq 7 -and $PSVersionTable.PSVersion.Minor -eq 2) #7.2 doesn't support http2
 
@@ -40,11 +40,17 @@ function Convert-AkaCsvToJson {
     Write-Host "Json files created at $configPath"
 }
 
-function Write-SiteCsv {
+function Write-PublicSiteData {
     $akaLinks = Get-AkaJsonsFromFolder
 
+    $publicCsvFilePath = Join-Path $publicSiteFilePath "profiles.csv"
+    $publicJsonFilePath = Join-Path $publicSiteFilePath "profiles.json"
+
     $akaLinks | Export-Csv $publicCsvFilePath -Encoding utf8 -NoTypeInformation
-    Write-Host "Csv created at $publicCsvFilePath"
+    Write-Host "Created at $publicCsvFilePath"
+
+    $akaLinks | ConvertTo-Json | Out-File $publicJsonFilePath -Encoding utf8
+    Write-Host "Created at $publicJsonFilePath"
 }
 function Write-AkaObjectToJsonFile ($akaLink) {
     $jsonFileName = $akaLink.bluesky.ToLower() -replace "/", ":"
