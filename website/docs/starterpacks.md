@@ -42,6 +42,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 ## Microsoft Security
 
 * [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
+* [Microsoft Intune Communities](https://bsky.app/profile/did:plc:jsd42mucvn26b666i4g2yrjg/lists/3lao4jg2ueu2a)
 * [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
 
 ## Gaming
