@@ -41,6 +41,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## Microsoft Security
 
+* [Entra.News Authors](https://bluesky.entra.news)
 * [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
 * [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
 
