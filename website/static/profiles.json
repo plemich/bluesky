@@ -3472,6 +3472,14 @@
     "did": "did:plc:fydtpzgau3vvyhqkd2xu7woc"
   },
   {
+    "title": "Nick Craver",
+    "category": "azure",
+    "bluesky": "nickcraver.com",
+    "twitter": "nick_craver",
+    "type": "microsoft",
+    "did": "did:plc:lerfxmgdj2st7bfh5wlnovof"
+  },
+  {
     "title": "Nicklas Ahlberg",
     "category": "intune",
     "bluesky": "nicklasahlberg.bsky.social",
