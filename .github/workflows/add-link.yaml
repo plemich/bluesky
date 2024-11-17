@@ -28,3 +28,4 @@ jobs:
           . ./build/scripts/AkaUtils.ps1
           Set-AkaGitHubAuth
           Update-AllOpenGitHubIssues
+          Write-PublicSiteData
