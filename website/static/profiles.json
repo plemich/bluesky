@@ -952,6 +952,14 @@
     "did": "did:plc:ho4pccfwsr4mtbu7cnlj7ius"
   },
   {
+    "title": "Dan Brinkmann",
+    "category": null,
+    "bluesky": "danbrinkmann.bsky.social",
+    "twitter": "dbrinkmann",
+    "type": "None",
+    "did": "did:plc:mmrpw2vvwtl2ylwic4rfkved"
+  },
+  {
     "title": "Dan Clarke",
     "category": "dev",
     "bluesky": "danclarke.com",
