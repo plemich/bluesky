@@ -3600,6 +3600,14 @@
     "did": "did:plc:7rw7tcvehvu2lze3s6npdxst"
   },
   {
+    "title": "Tomasz Cielecki",
+    "category": "dotnet",
+    "bluesky": "ostebaronen.dk",
+    "twitter": "cheesebaron",
+    "type": "mvp",
+    "did": "did:plc:geohshmrof7772pr5rwtugp3"
+  },
+  {
     "title": "Larry Osterman",
     "category": "dev",
     "bluesky": "osterman.bsky.social",
