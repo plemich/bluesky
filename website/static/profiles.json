@@ -1184,6 +1184,14 @@
     "did": "did:plc:jtpvkf6jdmd5pvg5jm4voxgu"
   },
   {
+    "title": "Danny McDermott",
+    "category": "azure",
+    "bluesky": "dmc-tech.bsky.social",
+    "twitter": "_dmc_tech_",
+    "type": "mvp",
+    "did": "did:plc:zt4mkfscv6vehwao4tsmjbxo"
+  },
+  {
     "title": "Dave Stork",
     "category": "microsoft365",
     "bluesky": "dmstork.bsky.social",
