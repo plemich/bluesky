@@ -1488,6 +1488,14 @@
     "did": "did:plc:gajqgw75jrphmdzqsx6imwxg"
   },
   {
+    "title": "Federico Porceddu",
+    "category": "microsoft365",
+    "bluesky": "federicoporceddu.com",
+    "twitter": "federicospdev",
+    "type": "mvp",
+    "did": "did:plc:gajqgw75jrphmdzqsx6imwxg"
+  },
+  {
     "title": "Fati Iseni",
     "category": "dotnet",
     "bluesky": "fiseni.com",
@@ -1502,14 +1510,6 @@
     "twitter": "davidrgardiner",
     "type": "mvp",
     "did": "did:plc:gmdb2ngatfbh6be24zvkmpu6"
-  },
-  {
-    "title": "Florian Salzmann ",
-    "category": "intune",
-    "bluesky": "florianslz.bsky.social",
-    "twitter": "florianslz",
-    "type": "mvp",
-    "did": "did:plc:2vpeueulgk3izdh5uoyyv7li"
   },
   {
     "title": "Carlos Sánchez",
@@ -2474,7 +2474,7 @@
   {
     "title": "Kenneth van Surksum",
     "category": "security",
-    "bluesky": "kennethvs.bsky.social",
+    "bluesky": "kennethvs.nl",
     "twitter": "kennethvs",
     "type": "mvp",
     "did": "did:plc:ig4vcvbphsbcjxyxpvw2xsfy"
@@ -4189,7 +4189,7 @@
     "bluesky": "rufer7.bsky.social",
     "twitter": "",
     "type": "mvp",
-    "did": ""
+    "did": "did:plc:farfgp32cbgebhorh5lgmrmd"
   },
   {
     "title": "Ryan Lowell",
@@ -4221,7 +4221,7 @@
     "bluesky": "samerde.day3bits.com",
     "twitter": "samerde",
     "type": "",
-    "did": ""
+    "did": "did:plc:n4yrsuupoqltkqscs5j6wa6i"
   },
   {
     "title": "Sami Lamppu",
@@ -4325,7 +4325,7 @@
     "bluesky": "scott.hanselman.com",
     "twitter": "shanselman",
     "type": "microsoft",
-    "did": ""
+    "did": "did:plc:hjx4vtoryubvqa4vy6xuliy7"
   },
   {
     "title": "Scott Durow",
@@ -4590,6 +4590,14 @@
     "twitter": "nztechtweet",
     "type": "mvp",
     "did": "did:plc:jmcagwfc3csaxumrbgtye7c4"
+  },
+  {
+    "title": "Steven Giesel",
+    "category": "dotnet",
+    "bluesky": "steven-giesel.com",
+    "twitter": "",
+    "type": "mvp",
+    "did": "did:plc:psqb6t2axfd7ghloosl5bnw2"
   },
   {
     "title": "Steven Giesel",
@@ -5024,7 +5032,7 @@
     "did": "did:plc:t3bmctdc2rutnfarqt2zipt6"
   },
   {
-    "title": "@Worrelpa.bsky.social",
+    "title": "Phil Worrell",
     "category": null,
     "bluesky": "worrelpa.bsky.social",
     "twitter": "worrelpa",
@@ -5078,6 +5086,14 @@
     "twitter": "yetanothersql",
     "type": "None",
     "did": "did:plc:if6eg3qcl3s3kjlsi7tnxrw6"
+  },
+  {
+    "title": "Graeme B",
+    "category": "security",
+    "bluesky": "zealytechtips.com",
+    "twitter": "graemece",
+    "type": "microsoft",
+    "did": "did:plc:xgkcenaw3nc5gocaaayqhs7j"
   },
   {
     "title": "Karel Zikmund",
