@@ -69,7 +69,7 @@ export const columns = [
     accessor: "title",
     className: "commands-data-table whitespace-nowrap left col-title",
     Cell: ({ cell: { value }, row: { original } }) => (
-      <a href={`https://bsky.app/profile/${original.bluesky}`} target="blank" rel="noreferrer noopener">
+      <a href={`https://bsky.app/profile/${original.did}`} target="blank" rel="noreferrer noopener">
         {value}
       </a>
     ),
@@ -81,13 +81,13 @@ export const columns = [
     Cell: ({ cell: { value }, row: { original } }) => (
       <>
         <a
-          href={`https://bsky.app/profile/${value}`}
+          href={`https://bsky.app/profile/${original.did}`}
           target="blank"
           rel="noreferrer noopener"
         >
           <b>{value}</b>
         </a>
-        <button className="copyButton" type="button" onClick={handleClick} value={value} ><img alt={value} className={`copy`} /></button>
+        <button className="copyButton" type="button" onClick={handleClick} value={original.did} ><img alt={value} className={`copy`} /></button>
       </>
     ),
   },
