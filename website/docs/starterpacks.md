@@ -15,7 +15,8 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## General
 
-* [Microsoft MVPs](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r)
+* [Microsoft MVPs Part 1](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r)
+* [Microsoft MVPs Part 2](https://bsky.app/starter-pack-short/DbkhYJe)
 * [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5)
 * [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ)
 
