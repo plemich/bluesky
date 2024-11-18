@@ -3352,6 +3352,14 @@
     "did": "did:plc:wqg3xumuue3v5nyd7fokoon3"
   },
   {
+    "title": "Mike Marable",
+    "category": null,
+    "bluesky": "mikemarable.bsky.social",
+    "twitter": "@mike_marable",
+    "type": "None",
+    "did": "did:plc:6q5fouvis6g2hxqdvvfm5yd7"
+  },
+  {
     "title": "Mike Nelson",
     "category": "azure",
     "bluesky": "mikenelson.bsky.social",
