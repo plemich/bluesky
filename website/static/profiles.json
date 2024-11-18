@@ -1504,6 +1504,14 @@
     "did": "did:plc:tpwat4x54qrui76k73cdarxg"
   },
   {
+    "title": "Eldert Grootenboer",
+    "category": "azure",
+    "bluesky": "eldert.net",
+    "twitter": "egrootenboer",
+    "type": "microsoft",
+    "did": "did:plc:wbywzu6czun342wx3po23ylk"
+  },
+  {
     "title": "Elena Guzman Blanco",
     "category": "dotnet",
     "bluesky": "elenadotnet.bsky.social",
