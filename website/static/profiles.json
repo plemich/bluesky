@@ -1920,6 +1920,14 @@
     "did": "did:plc:lwyclp4vagxqenrted3pgrgd"
   },
   {
+    "title": "Henning Kilset",
+    "category": "dotnet",
+    "bluesky": "henning.kilset.no",
+    "twitter": "hkilset",
+    "type": "microsoft",
+    "did": "did:plc:5dksticfgc7zjbmbgfurlf6x"
+  },
+  {
     "title": "Pascal Berger",
     "category": "dev",
     "bluesky": "hereispascal.bsky.social",
