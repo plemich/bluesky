@@ -184,6 +184,14 @@
     "did": "did:plc:usp2ucpw7bkhcozyk2vzpnt7"
   },
   {
+    "title": "Alex Witkowski",
+    "category": "dotnet",
+    "bluesky": "alexwitkowski.bsky.social",
+    "twitter": "alex_witkowski",
+    "type": "mvp",
+    "did": "did:plc:uq4uenz6l5o4kaxwl5vnuw6b"
+  },
+  {
     "title": "Alistair Pugin",
     "category": "microsoft365",
     "bluesky": "alistairpugin.bsky.social",
