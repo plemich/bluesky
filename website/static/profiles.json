@@ -1664,6 +1664,14 @@
     "did": "did:plc:u6oezqzkhb5epe65ggeuhfqo"
   },
   {
+    "title": "John Callaway",
+    "category": "dev",
+    "bluesky": "fractionaldeveloper.com",
+    "twitter": "matsubonsai",
+    "type": "mvp",
+    "did": "did:plc:ydpe2y7alehatuk4si7y55ym"
+  },
+  {
     "title": "Chrissy LeMaire",
     "category": "data",
     "bluesky": "funbucket.dev",
