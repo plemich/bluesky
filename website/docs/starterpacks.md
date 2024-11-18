@@ -53,4 +53,4 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## Gaming
 
-* [Xbox Essentials Starter Pack](https://bsky.app/starter-pack/deadly-headley.bsky.social/3l7fctgd7gw2h)
+* [Xbox Essentials Starter Pack](https://bsky.app/starter-pack/deadlyheadley.bsky.social/3l7fctgd7gw2h)
