@@ -288,14 +288,6 @@
     "did": "did:plc:v7z2lui3kjl2szfdzi5ilsqi"
   },
   {
-    "title": "Andrew O’Young",
-    "category": "microsoft365",
-    "bluesky": "andrewoyoung.bsky.social",
-    "twitter": "andrewoyoung",
-    "type": "mvp",
-    "did": "did:plc:6xpeuzfgmxvfng5blyo27hcg"
-  },
-  {
     "title": "Andrew Taylor",
     "category": "intune",
     "bluesky": "andrewstaylor.bsky.social",
@@ -2904,6 +2896,14 @@
     "did": "did:plc:ihibfooocmma3yb42xsu4kqo"
   },
   {
+    "title": "Andrew O’Young",
+    "category": "microsoft365",
+    "bluesky": "m365senpai.com",
+    "twitter": "andrewoyoung",
+    "type": "mvp",
+    "did": "did:plc:6xpeuzfgmxvfng5blyo27hcg"
+  },
+  {
     "title": "Maarten Eekels",
     "category": "ai",
     "bluesky": "maarten.eekels.net",
@@ -3760,6 +3760,14 @@
     "did": "did:plc:yqwf4baympkzpohdhmfuzlmr"
   },
   {
+    "title": "Patrik Svensson",
+    "category": "dotnet",
+    "bluesky": "patriksvensson.se",
+    "twitter": "firstdrafthell",
+    "type": "mvp",
+    "did": null
+  },
+  {
     "title": "Paul Beck",
     "category": null,
     "bluesky": "paulbeck1.bsky.social",
@@ -4182,6 +4190,14 @@
     "twitter": "rickvdbosch",
     "type": "microsoft",
     "did": "did:plc:chdbx3ja6ebix4gmxq3xgxyv"
+  },
+  {
+    "title": "Dominique Righetto",
+    "category": null,
+    "bluesky": "righettod.bsky.social",
+    "twitter": "righettod",
+    "type": "None",
+    "did": "did:plc:xsftdz6dbw2j2hij47wusxiv"
   },
   {
     "title": "Dan Rios",
