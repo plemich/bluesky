@@ -25,7 +25,7 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [.NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/chriswoodruff.bsky.social/3laqbohkbeh2d)
 * [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z)
 * [Blazor - Awesome people talking about Blazor](https://bsky.app/starter-pack/engstromjimmy.bsky.social/3laeduvq7b22u)
-* [dotnet pack -c bsky —interactive](https://go.bsky.app/AQZrkaS)
+* [dotnet pack -c bsky —interactive](https://bsky.app/starter-pack-short/AQZrkaS)
 
 ## Azure
 
