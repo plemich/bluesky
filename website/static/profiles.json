@@ -1968,6 +1968,14 @@
     "did": "did:plc:4fk2lkzcrahxdoy6rfa3vpot"
   },
   {
+    "title": "Eduard Keilholz",
+    "category": "azure",
+    "bluesky": "hexmaster.nl",
+    "twitter": "",
+    "type": "mvp",
+    "did": null
+  },
+  {
     "title": "Hjalmar",
     "category": null,
     "bluesky": "hjalmar-blue.bsky.social",
@@ -5198,6 +5206,14 @@
     "twitter": "thomasvochten",
     "type": "mvp",
     "did": "did:plc:oioygylnlu4cek7jvnd5s2nm"
+  },
+  {
+    "title": "Thomy Goelles",
+    "category": "microsoft365",
+    "bluesky": "thomyg.bsky.social",
+    "twitter": "thomyg",
+    "type": "mvp",
+    "did": "did:plc:bl33zi44lrxjzew4bzv3gsg2"
   },
   {
     "title": "Tiago Costa",
