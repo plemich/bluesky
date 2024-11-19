@@ -712,6 +712,14 @@
     "did": "did:plc:gwp6j2luj75mdlqd7enhl6xw"
   },
   {
+    "title": "Steve Buchanan",
+    "category": "azure",
+    "bluesky": "buchatech.bsky.social",
+    "twitter": "buchatech",
+    "type": "microsoft",
+    "did": "did:plc:olxz2uwh2tywglvskunwxog4"
+  },
+  {
     "title": "Torren Manson",
     "category": "microsoft365",
     "bluesky": "bumpinthenet.bsky.social",
