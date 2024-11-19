@@ -4776,6 +4776,14 @@
     "did": "did:plc:hh3ywvussfpmzvpkplksmyhk"
   },
   {
+    "title": "Sean Bulger",
+    "category": "intune",
+    "bluesky": "seanbulger.bsky.social",
+    "twitter": "managed_blog",
+    "type": "microsoft",
+    "did": "did:plc:fhywj7oxql3kzi63lz47vn67"
+  },
+  {
     "title": "Sean Killeen",
     "category": "dotnet",
     "bluesky": "seankilleen.com",
