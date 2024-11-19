@@ -664,6 +664,14 @@
     "did": "did:plc:2vpvmm6vskivot3b2nlloggf"
   },
   {
+    "title": "Brian Baldock",
+    "category": "microsoft365",
+    "bluesky": "brianbaldock.bsky.social",
+    "twitter": "britheguy",
+    "type": "microsoft",
+    "did": "did:plc:kxjo5ghhbdpgwu2tgwxeilo7"
+  },
+  {
     "title": "Brian Timp",
     "category": null,
     "bluesky": "briantimp.bsky.social",
