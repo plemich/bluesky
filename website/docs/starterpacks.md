@@ -47,9 +47,13 @@ Feel free to create your own starter pack and submit a pull request to add it to
 * [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
 * [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
 
+## Microsoft Business Applications
+* [Business Central Starter Pack](https://bsky.app/starter-pack/matthewperren.bsky.social/3kzmz664vxa2v)
+
 ### Lists
 
 * [Microsoft Intune Communities](https://bsky.app/profile/did:plc:jsd42mucvn26b666i4g2yrjg/lists/3lao4jg2ueu2a)
+* [Business Central Content Creators](https://bsky.app/profile/bc.jeremy.vyska.info/lists/3l6r7dcque323)
 
 ## Gaming
 
