@@ -1144,6 +1144,14 @@
     "did": "did:plc:i6zmedqmzwhkkmjsao5ty4nr"
   },
   {
+    "title": "David Gardiner",
+    "category": "dev",
+    "bluesky": "david.gardiner.net.au",
+    "twitter": "davidrgardiner",
+    "type": "mvp",
+    "did": "did:plc:gmdb2ngatfbh6be24zvkmpu6"
+  },
+  {
     "title": "David Wengier",
     "category": "dotnet",
     "bluesky": "david.wengier.com",
@@ -1704,14 +1712,6 @@
     "did": "did:plc:5yxcopdnp2lr23brexzp27jd"
   },
   {
-    "title": "David Gardiner",
-    "category": "dev",
-    "bluesky": "flcdrg.bsky.social",
-    "twitter": "davidrgardiner",
-    "type": "mvp",
-    "did": "did:plc:gmdb2ngatfbh6be24zvkmpu6"
-  },
-  {
     "title": "Carlos Sánchez",
     "category": "dotnet",
     "bluesky": "foofighter.bsky.social",
@@ -2168,20 +2168,20 @@
     "did": "did:plc:byf2selbvmbd2vxd3wgyupdb"
   },
   {
+    "title": "Jan de Vries",
+    "category": "azure",
+    "bluesky": "jan-v.nl",
+    "twitter": "jan_de_v",
+    "type": "microsoft",
+    "did": "did:plc:a7fuln2dy7xlnnl74rved2i2"
+  },
+  {
     "title": "Jan De Dobbeleer",
     "category": "dev",
     "bluesky": "jan.ohmyposh.dev",
     "twitter": "jandedobbeleer",
     "type": "mvp",
     "did": "did:plc:ttcvu32prgqg7hglyye6doys"
-  },
-  {
-    "title": "Jan de Vries",
-    "category": "azure",
-    "bluesky": "jandev.bsky.social",
-    "twitter": "jan_de_v",
-    "type": "microsoft",
-    "did": "did:plc:a7fuln2dy7xlnnl74rved2i2"
   },
   {
     "title": "Jan de Groot",
@@ -4766,6 +4766,14 @@
     "twitter": "",
     "type": "None",
     "did": "did:plc:otdtpurzlasoaln53km3nu4v"
+  },
+  {
+    "title": "Sara Fennah",
+    "category": "microsoft365",
+    "bluesky": "sfennah.bsky.social",
+    "twitter": "sfennah",
+    "type": "mvp",
+    "did": "did:plc:mwqrrhvkypx7sksjls76kqrk"
   },
   {
     "title": "Shaun Lawrie",
