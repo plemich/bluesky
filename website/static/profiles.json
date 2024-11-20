@@ -4002,14 +4002,6 @@
   {
     "title": "Frans Oudendorp",
     "category": "security",
-    "bluesky": "oudendorp.bsky.social",
-    "twitter": "oudendorp",
-    "type": "mvp",
-    "did": "did:plc:eh7hwdjf6f4q3gb4dkqhlp3m"
-  },
-  {
-    "title": "Frans Oudendorp",
-    "category": "security",
     "bluesky": "oudendorp.nl",
     "twitter": "oudendorp",
     "type": "mvp",
@@ -5022,6 +5014,14 @@
     "twitter": "sskotheimsvik",
     "type": "mvp",
     "did": "did:plc:jsd42mucvn26b666i4g2yrjg"
+  },
+  {
+    "title": "Srdjan Stevic",
+    "category": null,
+    "bluesky": "sstevic.bsky.social",
+    "twitter": "sstevic84",
+    "type": "None",
+    "did": "did:plc:kwsglthuha2bkkqk2dqmh2lj"
   },
   {
     "title": "Stefan Stranger ",
