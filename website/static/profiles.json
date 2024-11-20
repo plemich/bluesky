@@ -1912,6 +1912,14 @@
     "did": "did:plc:tlp64mwkrohsj2pak3szt53w"
   },
   {
+    "title": "Guy Leech",
+    "category": "powershell",
+    "bluesky": "guyrleech.bsky.social",
+    "twitter": "guyrleech",
+    "type": "mvp",
+    "did": "did:plc:tzhrwvnocrxyntumxmomcehb"
+  },
+  {
     "title": "Haflidi Fridthjofsson",
     "category": "azure",
     "bluesky": "haflidif.bsky.social",
