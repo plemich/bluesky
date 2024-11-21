@@ -56,6 +56,14 @@
     "did": "did:plc:wldsg3hywgy4sj6upwe6symh"
   },
   {
+    "title": "Nick Landry",
+    "category": "dev",
+    "bluesky": "activenick.bsky.social",
+    "twitter": "activenick",
+    "type": "microsoft",
+    "did": "did:plc:pvwdzhqxytn3xuy4cqdcbhsy"
+  },
+  {
     "title": "Adam Fowler",
     "category": null,
     "bluesky": "adamfowlerit.com",
