@@ -1304,14 +1304,6 @@
     "did": "did:plc:uawh2h2422ptnitympfhiiht"
   },
   {
-    "title": "Steven Thewissen",
-    "category": "dotnet",
-    "bluesky": "devnl.bsky.social",
-    "twitter": "devnl",
-    "type": "mvp",
-    "did": "did:plc:ry3lzp4xsm5dlbgxho3yntzh"
-  },
-  {
     "title": "Dean",
     "category": null,
     "bluesky": "dfowler.dev",
@@ -3968,6 +3960,14 @@
     "did": "did:plc:a7uakv2xuqgxmvhldiom2bdd"
   },
   {
+    "title": "Tony Redmond",
+    "category": "microsoft365",
+    "bluesky": "office365itpros.com",
+    "twitter": "12knocksinna",
+    "type": "mvp",
+    "did": "did:plc:jnojxkxptb32knzz2lhxatci"
+  },
+  {
     "title": "James Cook",
     "category": "azure",
     "bluesky": "officialcookj.bsky.social",
@@ -5344,6 +5344,14 @@
     "did": "did:plc:4s4wo3evcitq7uelafwmlxyd"
   },
   {
+    "title": "Steven Thewissen",
+    "category": "dotnet",
+    "bluesky": "thewissen.io",
+    "twitter": "devnl",
+    "type": "mvp",
+    "did": "did:plc:ry3lzp4xsm5dlbgxho3yntzh"
+  },
+  {
     "title": "Thirdtier.net - Amy",
     "category": "microsoft365",
     "bluesky": "thirdtier.bsky.social",
@@ -5486,14 +5494,6 @@
     "twitter": "tonyabm_",
     "type": "mvp",
     "did": "did:plc:mjsp3jvyrok2avr5wt6ocoyg"
-  },
-  {
-    "title": "Tony Redmond",
-    "category": "microsoft365",
-    "bluesky": "tonyredmond.bsky.social",
-    "twitter": "12knocksinna",
-    "type": "mvp",
-    "did": "did:plc:jnojxkxptb32knzz2lhxatci"
   },
   {
     "title": "Remo Glanzmann",
