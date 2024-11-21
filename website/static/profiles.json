@@ -1712,6 +1712,14 @@
     "did": "did:plc:iljkklhesqtbtpawv7yf64xw"
   },
   {
+    "title": "Expiscornovus",
+    "category": "businessapps",
+    "bluesky": "expiscornovus.bsky.social",
+    "twitter": "expiscornovus",
+    "type": "mvp",
+    "did": "did:plc:ytij4pplm7ucninvx535ispw"
+  },
+  {
     "title": "Eyal Estrin",
     "category": null,
     "bluesky": "eyalestrin.bsky.social",
@@ -3214,6 +3222,14 @@
     "twitter": "",
     "type": "None",
     "did": "did:plc:3liifuzes3pie7abbrg6qelx"
+  },
+  {
+    "title": "Mark allibone",
+    "category": "dotnet",
+    "bluesky": "mallibone.com",
+    "twitter": "mallibone",
+    "type": "mvp",
+    "did": "did:plc:lsgaznkhkla5wtjq5qxntts2"
   },
   {
     "title": "Jeroen Ebus",
