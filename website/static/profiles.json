@@ -376,6 +376,14 @@
     "did": "did:plc:sv5rv52gms2fbkoijrts5c2b"
   },
   {
+    "title": "Andy Wingate",
+    "category": null,
+    "bluesky": "andywingate.bsky.social",
+    "twitter": "",
+    "type": "None",
+    "did": "did:plc:vukhrkrlijsl2yoqwnctiqio"
+  },
+  {
     "title": "Angelo Belchior",
     "category": "dotnet",
     "bluesky": "angelobelchior.bsky.social",
