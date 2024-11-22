@@ -1666,6 +1666,14 @@
   {
     "title": "Ernie Costa",
     "category": "azure",
+    "bluesky": "epon.azureloko.com",
+    "twitter": "eponisdumb",
+    "type": "mvp",
+    "did": "did:plc:m6gg6q3bwyk4spprollbnrtz"
+  },
+  {
+    "title": "Ernie Costa",
+    "category": "azure",
     "bluesky": "epon.bsky.social",
     "twitter": "eponisdumb",
     "type": "mvp",
