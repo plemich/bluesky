@@ -16,18 +16,18 @@ Feel free to create your own starter pack and submit a pull request to add it to
 ## General
 
 * [Microsoft MVPs Part 1](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r) - Microsoft Most Valuable Professionals
-* [Microsoft MVPs Part 2](https://bsky.app/starter-pack-short/DbkhYJe) 
-* [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5) - Find your Microsoft PM (Product/Program manager)
-* [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ)
+* [Microsoft MVPs Part 2](https://bsky.app/starter-pack-short/DbkhYJe) - The second Starter Pack of MVPs.
+* [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5) - Find your Microsoft PM (Product/Program Manager)
+* [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ) - Starter Pack with 35 of 77 current GitHub Stars. https://stars.github.com/profiles/
 * [Norske Microsoft MVPer 🤓](https://bsky.app/starter-pack-short/L4E6Yi6) - Finn og følg norske Microsoft Most Valuable Professionals!
 
 ## Dev
 
-* [Microsoft Developer Division](https://bsky.app/starter-pack-short/JuyrK9N)
-* [.NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/chriswoodruff.bsky.social/3laqbohkbeh2d)
-* [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z)
-* [Blazor - Awesome people talking about Blazor](https://bsky.app/starter-pack/engstromjimmy.bsky.social/3laeduvq7b22u)
-* [dotnet pack -c bsky —interactive](https://bsky.app/starter-pack-short/AQZrkaS)
+* [Microsoft Developer Division](https://bsky.app/starter-pack-short/JuyrK9N) - Folks who are in Dev Div at Microsoft creating frameworks, languages and tools for developers all over the world.
+* [.NET C# Developer Friends (dotnet)](https://bsky.app/starter-pack/woodruff.dev/3laqbohkbeh2d) - Friends that develop in C# and .NET but also touches other Dev communities.
+* [WinDev MVPs & Friends](https://bsky.app/starter-pack/tomzorz.me/3ladd3yx62k2z) - Current and former Windows Development Microsoft MVPs, WinDev related Microsoft employees and friends
+* [Blazor - Awesome people talking about Blazor](https://bsky.app/starter-pack/engstromjimmy.bsky.social/3laeduvq7b22u) - Awesome people talking about Blazor.
+* [dotnet pack -c bsky —interactive](https://bsky.app/starter-pack-short/AQZrkaS) - A list of cool people in the #dotnet, tech, and adjacent communities.
 
 ## Azure
 
