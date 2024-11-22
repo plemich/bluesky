@@ -640,6 +640,14 @@
     "did": "did:plc:eieexlekd2kvzxichl5ctkmy"
   },
   {
+    "title": "Ben Lee",
+    "category": "microsoft365",
+    "bluesky": "bibbleq.com",
+    "twitter": "bibbleq",
+    "type": "mvp",
+    "did": "did:plc:27ynfrkzdcwqijn35scin3zy"
+  },
+  {
     "title": "Shaun Lawrence",
     "category": "dotnet",
     "bluesky": "bijington.bsky.social",
@@ -1590,6 +1598,14 @@
     "twitter": "@ehrnst",
     "type": "mvp",
     "did": "did:plc:tpwat4x54qrui76k73cdarxg"
+  },
+  {
+    "title": "Michel de Rooij",
+    "category": "microsoft365",
+    "bluesky": "eightwone.com",
+    "twitter": "mderooij",
+    "type": "mvp",
+    "did": "did:plc:ym2gedhhll5ihj2ldqmdm7vn"
   },
   {
     "title": "Eldert Grootenboer",
@@ -3566,14 +3582,6 @@
     "twitter": "mcorrado82",
     "type": "microsoft",
     "did": "did:plc:2gbyc6rfq7nndwy5ae3mdcmz"
-  },
-  {
-    "title": "Michel de Rooij",
-    "category": "microsoft365",
-    "bluesky": "mderooij.bsky.social",
-    "twitter": "mderooij",
-    "type": "mvp",
-    "did": "did:plc:ym2gedhhll5ihj2ldqmdm7vn"
   },
   {
     "title": "MEM Summit",
