@@ -15,10 +15,11 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## General
 
-* [Microsoft MVPs Part 1](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r)
-* [Microsoft MVPs Part 2](https://bsky.app/starter-pack-short/DbkhYJe)
-* [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5)
+* [Microsoft MVPs Part 1](https://bsky.app/starter-pack/tobiasfenster.io/3l7ed6ge7gs2r) - Microsoft Most Valuable Professionals
+* [Microsoft MVPs Part 2](https://bsky.app/starter-pack-short/DbkhYJe) 
+* [Microsoft PM](https://bsky.app/starter-pack-short/RCvJNV5) - Find your Microsoft PM (Product/Program manager)
 * [GitHub Stars](https://bsky.app/starter-pack-short/8GjVoVQ)
+* [Norske Microsoft MVPer 🤓](https://bsky.app/starter-pack-short/L4E6Yi6) - Finn og følg norske Microsoft Most Valuable Professionals!
 
 ## Dev
 
