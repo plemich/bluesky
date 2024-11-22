@@ -31,35 +31,31 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## Azure
 
-* [Azure DevRel](https://bsky.app/starter-pack-short/6VGtaiG)
-* [Azure Bicep Starter Pack 💪](https://bsky.app/starter-pack/did:plc:r5lyfzjttxjngj3ifcxidgbf/3laoclx5ddm2q)
-* [SQL People #1](https://bsky.app/starter-pack-short/PxShiuH) + [SQL People #2](https://bsky.app/starter-pack-short/FuwcAQA)
+* [Azure DevRel](https://bsky.app/starter-pack-short/6VGtaiG) - News and content from Microsoft Azure cloud developer advocates
+* [Azure Bicep Starter Pack 💪](https://bsky.app/starter-pack/did:plc:r5lyfzjttxjngj3ifcxidgbf/3laoclx5ddm2q) - Community of people sharing information and discussions focused on Microsoft Azure Bicep 💪 #azurebicep
+* [SQL People #1](https://bsky.app/starter-pack-short/PxShiuH) + [SQL People #2](https://bsky.app/starter-pack-short/FuwcAQA) - This is a collection of people in the SQL space.
 
 ## Microsoft 365
 
-* [Microsoft Modern Work](https://bsky.app/starter-pack-short/AJvRb9R)
-* [Microsoft 365 PnP People](https://go.bsky.app/RFgrWn7)
-* [Microsoft Exchange](https://bsky.app/starter-pack/did:plc:74bru4qbu5fs24pqj64whhsw/3la7wxdjs6o2s)
-* [Microsoft Excel - The Excel-lent Starter Pack](https://bsky.app/starter-pack-short/Hu3CjBE)
+* [Microsoft Modern Work](https://bsky.app/starter-pack-short/AJvRb9R) - Add this Starter Pack to fill your feed with great tech content about Microsoft 365.
+* [Microsoft 365 PnP People](https://go.bsky.app/RFgrWn7) - This is the list of everyone on BlueSky that is a (past/current/future?) member of the Microsoft 365 PnP team.
+* [Microsoft Exchange](https://bsky.app/starter-pack/did:plc:74bru4qbu5fs24pqj64whhsw/3la7wxdjs6o2s) - This is a starter pack for #MSExchange people.
+* [Microsoft Excel - The Excel-lent Starter Pack](https://bsky.app/starter-pack-short/Hu3CjBE) - Good accounts to follow if you are a Microsoft Excel enthusiast.
 
 ## Microsoft Security
 
-* [Entra.News Authors](https://bluesky.entra.news)
-* [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t)
-* [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j)
+* [Entra.News Authors](https://bluesky.entra.news) - Starter pack of all the authors and content creators who have been featured on the weekly Entra.News newsletter.
+* [Microsoft Intune Starter Pack](https://bsky.app/starter-pack/jeroen.burgerhout.org/3l7ngjc3oss2t) - You want to know more about Microsoft Intune? In this list you will find a collection of Intune MVP's, Non-MVP's, but also some recommended Intune related events.
+* [Microsoft Cloud Security and Identity](https://bsky.app/starter-pack/jeftek.com/3l6xljuyq2x2j) - Community of people sharing information and discussions focused on Microsoft Security & Identity technologies such as Microsoft Entra,  etc.
 
 ## Microsoft Business Applications
-* [Business Central Starter Pack](https://bsky.app/starter-pack/matthewperren.bsky.social/3kzmz664vxa2v)
 
-### Lists
-
-* [Microsoft Intune Communities](https://bsky.app/profile/did:plc:jsd42mucvn26b666i4g2yrjg/lists/3lao4jg2ueu2a)
-* [Business Central Content Creators](https://bsky.app/profile/bc.jeremy.vyska.info/lists/3l6r7dcque323)
+* [Business Central Starter Pack](https://bsky.app/starter-pack/matthewperren.bsky.social/3kzmz664vxa2v) - A Business Central starter pack for Bluesky newbies and twitter refugees.
 
 ## Gaming
 
-* [Xbox Essentials Starter Pack](https://bsky.app/starter-pack/deadlyheadley.bsky.social/3l7fctgd7gw2h)
+* [Xbox Essentials Starter Pack](https://bsky.app/starter-pack/deadlyheadley.bsky.social/3l7fctgd7gw2h) - Content creators, podcasters and journalists that put particular focus on the goings-on at Xbox and Microsoft.
 
 ## Education
 
-* [Microsoft Certified Trainers](https://bsky.app/starter-pack/nickydewestelinck.be/3larh42jtch2g)
+* [Microsoft Certified Trainers](https://bsky.app/starter-pack/nickydewestelinck.be/3larh42jtch2g) - This Starter Packets contains Microsoft Certified Trainers on Bluesky. 🎓🦋 #MCTBuzz
