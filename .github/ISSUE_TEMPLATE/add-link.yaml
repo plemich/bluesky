@@ -56,6 +56,7 @@ body:
         - powershell
         - security
         - windows
+        - windows365
     validations:
       required: false
   - type: dropdown
