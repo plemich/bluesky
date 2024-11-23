@@ -1880,6 +1880,14 @@
     "did": "did:plc:nxej6isv6g23rqagcxvkos7c"
   },
   {
+    "title": "George Coldham",
+    "category": "security",
+    "bluesky": "george.coldham.com.au",
+    "twitter": "georgecoldham",
+    "type": "microsoft",
+    "did": "did:plc:s5qwdqqifiia3kzh6rx4pfx7"
+  },
+  {
     "title": "George Walters",
     "category": "data",
     "bluesky": "geowalters.bsky.social",
