@@ -1512,6 +1512,14 @@
     "did": "did:plc:qob7jysjgoxjmre3ims5rzw3"
   },
   {
+    "title": "Tim Miller",
+    "category": "dotnet",
+    "bluesky": "drasticactions.dev",
+    "twitter": "drasticactions",
+    "type": "microsoft",
+    "did": "did:plc:yhgc5rlqhoezrx6fbawajxlh"
+  },
+  {
     "title": "Dr Nestori Syynimaa",
     "category": "security",
     "bluesky": "drazuread.bsky.social",
