@@ -1832,6 +1832,14 @@
     "did": "did:plc:tr5alzjmii6qnj7zmorx33yh"
   },
   {
+    "title": "Erik Moreau",
+    "category": "windows",
+    "bluesky": "erikmoreau.bsky.social",
+    "twitter": "erikmoreau",
+    "type": "mvp",
+    "did": "did:plc:3uhn27bpxggr572hxvlyi6p2"
+  },
+  {
     "title": "Erwin de Kreuk",
     "category": "data",
     "bluesky": "erwindekreuk.bsky.social",
