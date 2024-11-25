@@ -2440,6 +2440,14 @@
     "did": "did:plc:zlkzfif5z3wfcatsub2raaf4"
   },
   {
+    "title": "Johan Arwidmark",
+    "category": "intune",
+    "bluesky": "jarwidmark.bsky.social",
+    "twitter": "jarwidmark",
+    "type": "mvp",
+    "did": "did:plc:g7q2nsq3k3fkl47k3i4agl6b"
+  },
+  {
     "title": "Jason Bock",
     "category": "dotnet",
     "bluesky": "jasonbock.bsky.social",
