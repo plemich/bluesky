@@ -2216,6 +2216,14 @@
     "did": "did:plc:e2xw4wwjkseudlo4cl2tqshy"
   },
   {
+    "title": "Hungary Power Platform User Group",
+    "category": null,
+    "bluesky": "huppug.hu",
+    "twitter": "",
+    "type": "None",
+    "did": "did:plc:4xjdtzfnjl7tfb775h2cpsdb"
+  },
+  {
     "title": "Pasi Huuhka",
     "category": "azure",
     "bluesky": "huuhka.net",
@@ -5646,6 +5654,14 @@
     "twitter": "tnavguy",
     "type": "None",
     "did": "did:plc:a5clawampei6xihakdl3vt2a"
+  },
+  {
+    "title": "EY Kalman",
+    "category": "businessapps",
+    "bluesky": "thecrmninja.bsky.social",
+    "twitter": "thecrmninja",
+    "type": "mvp",
+    "did": "did:plc:vwz2anzrfoflnwr5az4iebeo"
   },
   {
     "title": "Excel Cookbook",
