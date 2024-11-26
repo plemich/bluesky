@@ -5160,6 +5160,14 @@
     "did": "did:plc:3g4boj6fp7p2qnhxlip7lgqo"
   },
   {
+    "title": "Lukas Sassl",
+    "category": "modernwork",
+    "bluesky": "sassl.info",
+    "twitter": "johndoe_1987_",
+    "type": "microsoft",
+    "did": "did:plc:azpyqspvei2yheyvox5wv7gy"
+  },
+  {
     "title": "Sascha Stumpler",
     "category": null,
     "bluesky": "sasstu.bsky.social",
@@ -5890,7 +5898,7 @@
   {
     "title": "Tim Mitchell",
     "category": null,
-    "bluesky": "tmitch.bsky.social",
+    "bluesky": "tmitch.net",
     "twitter": "tim_mitchell",
     "type": "None",
     "did": "did:plc:ogxc6m7gs53sr3v3udkpo3gc"
