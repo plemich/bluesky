@@ -50,6 +50,8 @@ Feel free to create your own starter pack and submit a pull request to add it to
 
 ## Microsoft Business Applications
 
+* [Power Platform Starter Pack](https://go.bsky.app/8mb4B7T) - A Power Platform community starter pack for Bluesky newbies and twitter refugees.
+
 * [Business Central Starter Pack](https://bsky.app/starter-pack/matthewperren.bsky.social/3kzmz664vxa2v) - A Business Central starter pack for Bluesky newbies and twitter refugees.
 
 ## Gaming
