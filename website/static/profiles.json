@@ -2672,6 +2672,14 @@
     "did": "did:plc:wrvasndyywpzravo2g6ydn4v"
   },
   {
+    "title": "Jim Bennett",
+    "category": "dev",
+    "bluesky": "jimbobbennett.dev",
+    "twitter": "jimbobbennett",
+    "type": null,
+    "did": "did:plc:sogm76n4bw6o7rzebfplrjp2"
+  },
+  {
     "title": "Jerome Laban",
     "category": "dotnet",
     "bluesky": "jlaban.bsky.social",
