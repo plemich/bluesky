@@ -4760,6 +4760,14 @@
     "did": "did:plc:gqvb4rfxss5ing4kzz2g2t4o"
   },
   {
+    "title": "Mary",
+    "category": "azure",
+    "bluesky": "pykpyky.bsky.social",
+    "twitter": "",
+    "type": "microsoft",
+    "did": "did:plc:6rujkdwb4mzzplqzccqmui2h"
+  },
+  {
     "title": "Matteo Pagani",
     "category": "microsoft365",
     "bluesky": "qmatteoq.bsky.social",
